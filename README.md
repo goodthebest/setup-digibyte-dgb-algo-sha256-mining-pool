@@ -1,8 +1,10 @@
 # Contact Now to Setup Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool
 
-- [x]   **Email:**  _onlinebuybiz@gmail.com_
+- [x]   **Email:**  
+>onlinebuybiz@gmail.com
 
-- [x]  **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
+- [x]  **Skype:** 
+> add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
 
 - [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 
