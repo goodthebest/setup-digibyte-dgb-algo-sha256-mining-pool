@@ -23,6 +23,7 @@ We provide crypto mining pool creation services and take care of everything from
 - It can be multi coin and multi algorithm mining pool as more coins can be added at any stage. 
 - We do privide maintence service although not much maintence is needed after pool is setup, if you do not touch any exisitng settings or any server failures are not happened.
 - Troubleshooting of servers Linux/Ubuntu and existing pools, such as reject blocks, payouts not working, custom difficulty, vardiff, autoexchange, daemon and any other yiimp pool problems we can fix and make your pool running for smooth mining.
+- Optimize and Tweak server and yiimp software for improved performance.
 - Any special features or customization also possible at additional cost.
 
 How Does it Work?
