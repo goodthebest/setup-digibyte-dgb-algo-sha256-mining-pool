@@ -1,6 +1,6 @@
 # Mining Pool Setup Service for DIGIBYTE coin [sha256] or Any Other Coins of Your Choice or Troubleshoot Existing Pool
 
-### Contact Us Now & Let Us Get it Done For You Within Few Hours
+### Contact Now & Let Us Get it Done For You Within Few Hours
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
