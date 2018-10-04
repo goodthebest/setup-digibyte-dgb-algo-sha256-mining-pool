@@ -29,7 +29,7 @@ We provide altcoin cryptocurrencies mining pool installation and creation servic
 - Any special features or customization also possible at additional cost.
 
 How Does it Work?
------------
+----------
 You will be required to get a VPS or a server that can be obtained from several hosts online or if you have your very own server at your premises that can also be used to setup pool. For detailed minimum specifications and operating system that is usually Ubuntu/Linux, you need to contact us as it depends on several factors those can only be determined after discussing your mining needs.
 
 We can work remotely using **TeamViewer** or **AnyDesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you. To get a price quote please contact us using above given contact details, we can discuss in real time.
