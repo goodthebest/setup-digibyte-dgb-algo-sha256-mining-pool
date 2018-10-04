@@ -1,4 +1,6 @@
-# Contact Now to Setup Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool & Get it Done Within Few Hours
+# Setup Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool & Get it Done Within Few Hours
+
+## Contact now!
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
