@@ -14,7 +14,7 @@
 
 - [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
-Build and Install Digibyte (ticker DGB) Cryptocurrency Altcoins Mining Pool for Algorithm SHA256, Multi Coins & Multi Algo Mining Pool Software
+Build and Install Digibyte (DGB) Cryptocurrency Altcoins Mining Pool for Algorithm SHA256 On Yiimp Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
 We provide altcoin cryptocurrencies mining pool installation and creation services and take care of everything from scratch to finish that includes but not limited to 
