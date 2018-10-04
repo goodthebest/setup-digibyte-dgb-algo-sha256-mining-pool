@@ -1,7 +1,7 @@
 # Mining Pool Setup Service for DIGIBYTE Coin [sha256] or Any Other Coins of Your Choice or Troubleshoot Existing Pool
 
 ## Contact Now & Let Us Get it Done For You Within Few Hours 
-#### Whether you want to mine Digibyte coin solo, private with your friends & family, even public or Nicehash, cloud mining etc.
+#### _Whether you want to mine Digibyte coin solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
