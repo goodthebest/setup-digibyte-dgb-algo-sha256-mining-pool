@@ -1,6 +1,6 @@
 # Mining Pool Setup Service for DIGIBYTE coin [sha256] or Any Other Coins of Your Choice or Troubleshoot Existing Pool
 
-## Contact now! & Get it Done Within Few Hours
+## Contact now & Get it Done Within Few Hours
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
@@ -17,7 +17,7 @@
 Build and Install Digibyte (DGB) Cryptocurrency Altcoins Mining Pool for Algorithm SHA256 On Yiimp Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
-We provide altcoin cryptocurrencies mining pool installation and creation services and take care of everything from scratch to finish that includes but not limited to 
+We provide altcoin cryptocurrencies mining pool installation and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
 
 - Installation of Digibyte wallets/daemon and other coins of your choice for mining purpose
 - Setting up, configuring, administer and prepare server for yiiimp mining software to enable DigiByte mining
